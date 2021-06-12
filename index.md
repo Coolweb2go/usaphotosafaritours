@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to USA Photo Safaris 
 
-You can use the [editor on GitHub](https://github.com/Coolweb2go/usaphotosafaritours/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+walking photo tours of New York, Los Angeles, San Francisco
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
